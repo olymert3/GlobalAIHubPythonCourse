@@ -1,5 +1,5 @@
 import random
-#random sayı oluştur 1-100 arasında olabilir biz belirlemiyoruz asal sayı olması lazım 3x3 matrix olucak
+
 mylist=[2,3,5,7,11,13,17,19,23]
 for i in mylist:
     a=random.sample(mylist,3)
