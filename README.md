@@ -2,8 +2,11 @@
 ![](img/logo.png)
 
 **Course Date:** 16.02.2021 
+
 **Name:** Mert  
+
 **Surname:** Altuntaş 
+
 **Email:** mertaltuntaas@icloud.com
 
 ## 3x3 Martix
