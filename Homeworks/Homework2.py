@@ -4,7 +4,7 @@ studentFinals = []
 studentHomeworks = []
 info = []
 
-for i in range(0,3):
+for i in range(0,5):
     name = input("Enter Full Name:  ")
     midTerm = int(input("Mid Term  Note: "))
     final = int(input("Final Note: "))
@@ -17,6 +17,7 @@ for i in range(0,3):
  
     print("")
     print("Bilgiler kaydediliyor...")
+    print(" FullName:{} " " MidTerm:{} " " Final:{} " " Homework:{}\n ".format(studentNames,studentMidTerms,studentFinals,studentHomeworks))
     dic = {"FullName": name, "MidTerm": midTerm, "FinalNote": final,"HomeworkNote": homework}
     info.append(dic)
 
