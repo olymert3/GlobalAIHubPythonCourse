@@ -1,4 +1,5 @@
 import random
+#iç içe for döngüsü kullanılıcak düzeltilicek..
 
 mylist=[2,3,5,7,11,13,17,19,23]
 for i in mylist:
